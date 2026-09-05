@@ -43,7 +43,7 @@ I leverage a strong academic foundation in cybersecurity & forensics and core IT
 
 ## 📁 Highlighted Open-Source Projects
 
-### [🛡️ Project Triton/HatMan Security Advisory & Tooling Archive](https://github.com)
+### [🛡️ Project Triton/HatMan Security Advisory & Tooling Archive](https://github.com/alex-kitaa/ttriton-advisory)
 An interactive threat intelligence advisory and custom script ecosystem focused on the Triton malware family targeting Schneider Electric Triconex Safety Instrumented Systems (SIS).
 * Developed an automated, containerized **passive parser** in Python (`scapy`) to safely identify critical TriStation command opcodes (UDP 1502) inside offline captures.
 * Engineered a companion **passive Modbus TCP validator** targeting live network handshakes (TCP 502) without traffic injection.
@@ -58,12 +58,12 @@ An interactive threat intelligence advisory and custom script ecosystem focused 
 | **OT/ICS Protocols** | Modbus TCP, TriStation (UDP 1502), DNP3, Profinet |
 | **Security Frameworks** | MITRE ATT&CK for ICS, IEC 62443, NIST SP 800-82 |
 | **Tools & Telemetry** | Wireshark, Tshark, Scapy, Docker, Nmap (IT-only), Metasploit |
-| **Languages** | Python, Bash, Markdown |
+| **Languages** | Python, Bash, Markdown, Lua |
 
 ---
 
 ## 📫 Connect with Me
 
-* 💼 **LinkedIn:** [alex-kitaa](https://linkedin.com/alex-kitaa)
+* 💼 **LinkedIn:** [alex-kitaa](https://linkedin.com/in/alex-kitaa)
 * 📧 **Email:** [kitaa.alex@gmail.com](mailto:kitaa.alex@gmail.com)
 * ✍️ **Technical Blog:** [blog.kitaa.me](https://blog.kitaa.me) (Where I post safe OT walkthroughs and packet dissections)
