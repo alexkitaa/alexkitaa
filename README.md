@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Alex Kitaa Kyalo
 ### 🛡️ OT/ICS Security Researcher & Offensive Security Engineer
 
 I leverage a strong academic foundation in cybersecurity & forensics and core IT security infrastructure to build, test, and defend **Operational Technology (OT)** and **Industrial Control Systems (ICS)**. My cybersecurity mindset prioritizes **human safety, system availability, and risk-managed offensive evaluations** across critical infrastructure environments.
