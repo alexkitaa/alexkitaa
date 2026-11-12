@@ -43,7 +43,7 @@ I leverage a strong academic foundation in cybersecurity & forensics and core IT
 
 ## 📁 Highlighted Open-Source Projects
 
-### [🛡️ Project Triton/HatMan Security Advisory & Tooling Archive](https://github.com/alex-kitaa/ttriton-advisory)
+### [🛡️ Project Triton/HatMan Security Advisory & Tooling Archive](https://github.com/alex-kitaa/triton-advisory)
 An interactive threat intelligence advisory and custom script ecosystem focused on the Triton malware family targeting Schneider Electric Triconex Safety Instrumented Systems (SIS).
 * Developed an automated, containerized **passive parser** in Python (`scapy`) to safely identify critical TriStation command opcodes (UDP 1502) inside offline captures.
 * Engineered a companion **passive Modbus TCP validator** targeting live network handshakes (TCP 502) without traffic injection.
