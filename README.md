@@ -35,9 +35,11 @@ I leverage a strong academic foundation in cybersecurity & forensics and core IT
 
 - **BSc in Computer Security and Forensics** – Specialized in advanced networking, system architecture, incident response, and malware forensics.
 - **Ethical Hacker for Cisco** – Core validation of network security boundaries, protocol routing, and perimeter exploitation vectors.
-- **OT/ICS Specialized Training (Udemy):**
-  * *OT Security: ICS & SCADA, Purdue Model, MITRE ICS, & Pentest*
-  * *Practical Industrial Control System Penetration Testing*
+- **OT/ICS Specialized Training (Cybersecurity and Infrastructure Security Agency (CISA) / Idaho National Laboratory):**
+  * **ICS Cybersecurity (300):** Hands-on intermediate training in defense-in-depth architectures, Purdue Model network segmentation, industrial protocol vulnerabilities, network discovery/analysis, and operational incident response.
+  * **Common ICS Components (210W-03):** Operational literacy across OT hardware and software—including PLCs, RTUs, HMIs, SCADA servers, and field sensors—and their interaction in physical process control.
+  * **Cybersecurity Within IT and ICS Domains (210W-04):** Comparative security engineering contrasting Confidentiality-first IT environments against Availability- and Safety-first deterministic OT control loops.
+  * **Attack Methodologies in IT & ICS (210W-09):** Adversarial tradecraft mapped to MITRE ATT&CK for ICS, industrial protocol reconnaissance, and IT-to-OT lateral pivot vectors.
 
 ---
 
@@ -59,15 +61,15 @@ An offensive OT lab demonstrating how to capture, dissect, and manipulate unencr
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **OT/ICS Protocols** | Modbus TCP, OPC UA, DNP3, ProfiNet |
+| **OT/ICS Protocols** | Modbus TCP, TriStation (UDP 1502), DNP3, Profinet |
 | **Security Frameworks** | MITRE ATT&CK for ICS, IEC 62443, NIST SP 800-82 |
-| **Tools & Telemetry** | Wireshark, Tshark, Scapy, Docker, Nmap (IT-only), Metasploit, Zeek, Snort, Suricata, Wazuh |
+| **Tools & Telemetry** | Wireshark, Tshark, Scapy, Docker, Nmap (IT-only), Metasploit |
 | **Languages** | Python, Bash, Markdown, Lua |
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [Alex Kitaa](https://www.linkedin.com/in/kitaa-kyalo/)
+- 💼 **LinkedIn:** [alex-kitaa](https://linkedin.com/in/alex-kitaa)
 - 📧 **Email:** [kitaa.alex@gmail.com](mailto:kitaa.alex@gmail.com)
 - ✍️ **Technical Blog:** [blog.kitaa.me](https://blog.kitaa.me) (Where I post safe OT walkthroughs and packet dissections)
