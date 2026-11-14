@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm a Cybersecurity & OT/ICS Security Practitioner
+### I'm a Cybersecurity & OT/ICS Security Practitioner
 
 **Ethical Hacker | Vulnerability Assessment | Cyber Threat Intelligence | Operational Technology Security**
 
