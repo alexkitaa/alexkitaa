@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hello, I'm Alex Kitaa Kyalo
-### 🛡️ OT/ICS Security Researcher & Offensive Security Engineer
+### 🛡️ Ethical Hacker | Vulnerability Assessment | Cyber Threat Intelligence | Operational Technology Security
 
 I leverage a strong academic foundation in cybersecurity & forensics and core IT security infrastructure to build, test, and defend **Operational Technology (OT)** and **Industrial Control Systems (ICS)**. My cybersecurity mindset prioritizes **human safety, system availability, and risk-managed offensive evaluations** across critical infrastructure environments.
 
@@ -25,7 +25,7 @@ I leverage a strong academic foundation in cybersecurity & forensics and core IT
 ## 🚀 Professional Focus & Specialization
 
 - **Purdue Model Architecture:** Mapping and defending network boundaries from Layer 4 (Enterprise IT) down to Layer 1 (Process Control & Safety).
-- **Industrial Protocol Analysis:** Performing deep packet inspection (DPI) and custom script parsing on proprietary or legacy streams (**Modbus TCP, TriStation, DNP3, Profinet**).
+- **Industrial Protocol Analysis:** Performing deep packet inspection (DPI) and custom script parsing on proprietary or legacy streams (**Modbus TCP, OPC UA, DNP3, ProfiNet**).
 - **Defensible Architecture Engineering:** Implementing hard engineering controls (physical key-switch configurations, unidirectional gateways) and logical isolation to neutralize cyber-to-physical vectors.
 - **Passive Offensive Reconnaissance:** Conducting non-intrusive asset discovery and validation tailored to risk-averse, safety-critical environments.
 
@@ -33,8 +33,8 @@ I leverage a strong academic foundation in cybersecurity & forensics and core IT
 
 ## 🎓 Credentials & Core Competencies
 
-- **BSc in Computer Security and Forensics** – Specialized in advanced networking, system architecture, incident response, and malware forensics.
-- **Ethical Hacker for Cisco** – Core validation of network security boundaries, protocol routing, and perimeter exploitation vectors.
+- **BSc in Computer Security and Forensics** – Jaramogi Oginga Odinga University of Science & Technology
+- **Ethical Hacker** – Cisco Networking Academy
 - **OT/ICS Specialized Training (Cybersecurity and Infrastructure Security Agency (CISA) / Idaho National Laboratory):**
   * **ICS Cybersecurity (300):** Hands-on intermediate training in defense-in-depth architectures, Purdue Model network segmentation, industrial protocol vulnerabilities, network discovery/analysis, and operational incident response.
   * **Common ICS Components (210W-03):** Operational literacy across OT hardware and software—including PLCs, RTUs, HMIs, SCADA servers, and field sensors—and their interaction in physical process control.
@@ -61,15 +61,15 @@ An offensive OT lab demonstrating how to capture, dissect, and manipulate unencr
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **OT/ICS Protocols** | Modbus TCP, TriStation (UDP 1502), DNP3, Profinet |
+| **OT/ICS Protocols** | Modbus TCP, OPC UA, DNP3, ProfiNet |
 | **Security Frameworks** | MITRE ATT&CK for ICS, IEC 62443, NIST SP 800-82 |
-| **Tools & Telemetry** | Wireshark, Tshark, Scapy, Docker, Nmap (IT-only), Metasploit |
+| **Tools & Telemetry** | Wireshark, Tshark, Scapy, Docker, Nmap (IT-only), Metasploit, Zeek, Snort, Suricata, Wazuh |
 | **Languages** | Python, Bash, Markdown, Lua |
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [alex-kitaa](https://linkedin.com/in/alex-kitaa)
+- 💼 **LinkedIn:** [Alex Kitaa](https://www.linkedin.com/in/kitaa-kyalo/)
 - 📧 **Email:** [kitaa.alex@gmail.com](mailto:kitaa.alex@gmail.com)
 - ✍️ **Technical Blog:** [blog.kitaa.me](https://blog.kitaa.me) (Where I post safe OT walkthroughs and packet dissections)
