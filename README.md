@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm Alex Kitaa Kyalo
-### 🛡️ Ethical Hacker | Vulnerability Assessment | Cyber Threat Intelligence | Operational Technology Security
+### Hi there 👋 I'm a Cybersecurity & OT/ICS Security Practitioner
 
-I leverage a strong academic foundation in cybersecurity & forensics and core IT security infrastructure to build, test, and defend **Operational Technology (OT)** and **Industrial Control Systems (ICS)**. My cybersecurity mindset prioritizes **human safety, system availability, and risk-managed offensive evaluations** across critical infrastructure environments.
+**Ethical Hacker | Vulnerability Assessment | Cyber Threat Intelligence | Operational Technology Security**
+
+I leverage a strong foundation in computer security, digital forensics, and core IT infrastructure to build, test, and defend **Operational Technology (OT)** and **Industrial Control Systems (ICS)**. My approach prioritizes **human safety, system availability, and risk-managed offensive evaluations** across critical infrastructure environments—contrasting traditional confidentiality-first IT security with the realities of deterministic physical control loops.
 
 ---
 
-## 🚀 Professional Focus & Specialization
+### 🛡️ Focus Areas & Technical Domains
 
-- **Purdue Model Architecture:** Mapping and defending network boundaries from Layer 4 (Enterprise IT) down to Layer 1 (Process Control & Safety).
-- **Industrial Protocol Analysis:** Performing deep packet inspection (DPI) and custom script parsing on proprietary or legacy streams (**Modbus TCP, OPC UA, DNP3, ProfiNet**).
-- **Defensible Architecture Engineering:** Implementing hard engineering controls (physical key-switch configurations, unidirectional gateways) and logical isolation to neutralize cyber-to-physical vectors.
-- **Passive Offensive Reconnaissance:** Conducting non-intrusive asset discovery and validation tailored to risk-averse, safety-critical environments.
+* **OT / ICS Security Engineering:** Purdue Model segmentation, defense-in-depth architectures, and securing PLCs, RTUs, HMIs, SCADA servers, and field sensors.
+* **Offensive Security & Assessments:** Ethical hacking, vulnerability assessment, industrial protocol analysis, and identifying IT-to-OT lateral pivot vectors.
+* **Threat Intelligence & Adversary Emulation:** Threat research and attack path mapping aligned with **MITRE ATT&CK for ICS**.
+* **Network Discovery & Incident Response:** Passive/active OT network analysis, anomaly detection, and operational incident response.
 
 ---
 
